@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\rick\Documents\Code\ClassCodeF23\571_F23\2023-08-23\ThirdProject-CMake\mainprog.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\rick\Documents\Code\ClassCodeF23\571_F23\2023-08-23\ThirdProject-CMake\add.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="C:\Users\rick\Documents\Code\ClassCodeF23\571_F23\2023-08-23\ThirdProject-CMake\add.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\rick\Documents\Code\ClassCodeF23\571_F23\2023-08-23\ThirdProject-CMake\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{99CA1F47-4F0E-3687-B0F9-BCEF0EB865B4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{AB14BE7D-5392-34EC-A9F7-8D99B9C64BC5}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

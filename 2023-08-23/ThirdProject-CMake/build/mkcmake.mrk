@@ -1,0 +1,4 @@
+This file denotes mkcmake.bat file created this directory.
+
+The rmbuild script will check for this file before it removes 
+the build directory.
