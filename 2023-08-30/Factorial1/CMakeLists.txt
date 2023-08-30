@@ -9,4 +9,7 @@ else()   # For macOS and Linux
     add_compile_options(-Wall -Wextra -Wpedantic)
 endif()
 
-add_executable(factorial testfactorial.cpp factorial.cpp factorial.h)
+add_executable(factorial 
+               testfactorial.cpp 
+               factorial.cpp 
+               factorial.h)
